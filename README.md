@@ -1,6 +1,6 @@
-# DeepLearning.AI_TensorFlow_Developer
-on Coursera
-
+# DeepLearning.AI_TensorFlow_Developer on Coursera
+- Instructor : Laurence Moroney
+  
 ### 1. Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning
 - A new programming paradigm
 - Introduction to Computer vision
