@@ -1,4 +1,5 @@
 # DeepLearning.AI_TensorFlow_Developer on Coursera
+- [DeepLearning.AI_TensorFlow_Developer](https://www.coursera.org/professional-certificates/tensorflow-in-practice) offered by `deeplearning.ai`.
 - Instructor : Laurence Moroney
   
 ### 1. Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning
